@@ -4,4 +4,4 @@
 
 
 
-<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP&logoColor=white"><img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=Oracle&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-435EBE?style=for-the-badge&logo=PHP&logoColor=white"><img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=Oracle&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=white">
